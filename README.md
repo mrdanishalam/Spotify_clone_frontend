@@ -18,10 +18,34 @@ This project focuses on recreating the look and feel of the Spotify web interfac
 
 spotify-clone/
 │
-├── index.html                # Main HTML file
-├── style.css                 # Main CSS file
-├── assets/                   # Folder for images/icons
-│   ├── images/               # Album covers, background images, etc.
-│   └── icons/                # Play, pause, next, previous icons etc.
+├── index.html                
+├── style.css                 
+├── assets/                   
+│   ├── images                             
 └── README.md   
+
+
+1. Open `index.html` in any modern browser.
+
+No additional setup or dependencies required.
+
+## 🔧 Tools Used
+
+- HTML5  
+- CSS3 (Flexbox, Grid, Media Queries)
+
+## 🎯 Goals
+
+- Practice responsive layout techniques  
+- Improve frontend structuring and styling skills  
+- Recreate a popular UI using pure frontend  
+
+## 📌 Note
+
+This is a **frontend-only** static project.  
+There is **no audio playback** functionality or dynamic features — it’s a visual/UI clone of Spotify.
+
+## 📃 License
+
+This project is open-source and free to use for educational purposes.
 
