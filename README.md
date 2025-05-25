@@ -18,14 +18,14 @@ This project focuses on recreating the look and feel of the Spotify web interfac
 
 spotify-clone/
 │
-├── index.html                
-├── style.css                 
+├── index1.htm                
+├── css1.css                 
 ├── assets/                   
 │   ├── images                             
 └── README.md   
 
 
-1. Open `index.html` in any modern browser.
+1. Open `index1.html` in any modern browser.
 
 No additional setup or dependencies required.
 
